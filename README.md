@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @filotaxis
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Javascript
+![banner](banner.png)
+- 🌻 Hi, I’m Bryan Medina (@filotaxis)
+- 🌱 I’m interested in frontend development and image processing
+- 🌿 Javascript and Python knowledge
 
